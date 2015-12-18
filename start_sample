@@ -1,0 +1,13 @@
+export API_KEY=""
+export SEC_KEY=""
+export PAGE_ID=""
+
+export INSPECTION_PAGE=""
+export INSPECTION_LINK_START=""
+
+export TESTING_API_TOK=""
+
+export POST_PICTURE=""
+export POST_LINK=""
+
+rake
